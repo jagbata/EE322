@@ -20,5 +20,5 @@ I went to see Prof Lu today and he offered that I may not be in the correct dire
 
 After solving this issue, I can now run the simple commands properly
 
-![Correction]([https://github.com/jagbata/EE322/blob/main/Lab%201/Correction.jpg)
+![Correction](https://github.com/jagbata/EE322/blob/main/Lab%201/Correction.jpg)
 
