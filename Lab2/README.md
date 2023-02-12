@@ -8,4 +8,6 @@ I had done pi setup before. The Lesson 2 also had some stuff I had seen before b
 LXDE, I learned some *new* info.
 
 Included will be some pictures from the terminal portion of the lab. 
+![First pic](https://github.com/jagbata/EE322/blob/main/Lab2/Lab2.1.jpg)
+![Second pic](https://github.com/jagbata/EE322/blob/main/Lab2/Lab2.2.jpg)
 
