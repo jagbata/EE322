@@ -9,5 +9,10 @@ LXDE, I learned some *new* info.
 
 Included will be some pictures from the terminal portion of the lab. 
 ![First pic](https://github.com/jagbata/EE322/blob/main/Lab2/Lab2.1.jpg)
+
+Below is another screen shot I took. 
+When I ran the *netstat* command, it ran for a while but that is because I am currently in an apartment building so it makes sense that there were a lot of networks around me. I did not include all that info since it was a lot.
+
+
 ![Second pic](https://github.com/jagbata/EE322/blob/main/Lab2/Lab2.2.jpg)
 
