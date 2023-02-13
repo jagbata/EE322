@@ -8,6 +8,72 @@ I had done pi setup before. The Lesson 2 also had some stuff I had seen before b
 LXDE, I learned some *new* info.
 
 Included will be some pictures from the terminal portion of the lab. 
+
+## hostname
+This command tells you the name of the machine you are using
+
+## env
+This command spits a bunch information regarding the files on this computer and various other paths
+
+## ps
+This command lets you check the status of certain processes
+
+## pwd
+Tells you the path directory of the folder you are currently in
+
+## git clone..
+Clones into Kevin Lu's iot folder on GitHub
+
+## cd iot
+opens it 
+## ls 
+list
+## cd 
+This may be how its done on Mac, but to go up a folder in Windows you type cd..
+
+## df
+Tells you how much space you have
+
+## mkdir demo
+Make a folder called demo
+## cd demo
+Open the folder
+
+## nano file
+create a file called file and open it with nano editor
+
+It is worth noting that for the file to be actually created, you have to add stuff to it and save the file
+## cat file
+Print what the file says
+
+## cp file file1
+Copies contents of *file* into a file called *file1*
+If that file does not yet exist, it creates a new file
+
+## mv file file2
+Renames *file* as *file2*
+## rm file2
+Deletes file2
+
+## clear
+Clears the terminal
+
+## man uname
+This does not exist on windows. Equivalent is uname 
+
+## uname -a
+Lists some info about operating system, version and time settings
+
+## ipconfig
+Displays network configurations 
+
+## ping localhost
+Checks how stable the connection is between this computer and the local host
+
+## netstat
+Displays networks and network statistics
+
+
 ![First pic](https://github.com/jagbata/EE322/blob/main/Lab2/Lab2.1.jpg)
 
 Below is another screen shot I took. 
