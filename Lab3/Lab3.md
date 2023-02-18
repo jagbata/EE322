@@ -4,12 +4,15 @@ A friend of mine told me that I should make a virtual environment because it is 
 I did not know how to create a virtual environment *at all* let alone creating one using a terminal
 I was able to research how to do that and all that stuff and I *think* it worked 
 
-I found that there was a problem identifying the libraries even though they were installed. I will come back to this
+~~I found that there was a problem identifying the libraries even though they were installed. I will come back to this~~
+
+I was able to do everything using ubuntu. This method creates an Ubuntu venv for windows and allows you to operate as if you were using Ubuntu
 
 ### What the Commands Do:
 **python3 julian.py**
 
-TBD
+~~TBD~~
+This prints the calendar date and then the Julian date. It also has a modified Julian Date that cut off the first two digits
 
 ***python3 date_example.py***
 
@@ -28,19 +31,26 @@ this same format
 This prints the time every 10 seconds (this never ends it seems... I ended this after 5 minutes)
 
 ***python3 sun.py 'New York'***
-TBD
+~~TBD~~
+This gives info about the time zone, latitude and longitude. It also says when dawn started, the sunrise and noon (I'm guessing when the sun was highest over NY)
 
-****python3 moon.py**
-TBD
+***python3 moon.py***
+~~TBD~~
+This lists the different moon phases
 
 ***python3 coordinates.py 'SC Williams Library'***
-TBD
+~~TBD~~
+Tells you the location of SC Williams Library: its town, district, county, country and coordinates
+This one is in Canada, that's interesting
 
 ***python3 address.py '40.74480675, -74.02532862031404'***
-TBD
+~~TBD~~
+Finds what is located at those coordinates. This one is the library on our campus
+
 
 ***python3 cpu.py***
-TBD
+~~TBD~~
+Tells you info about your cpu: how many cores, cpus and how much each cpu is being used
 
 ***python3 battery.py***
 
