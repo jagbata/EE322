@@ -31,6 +31,7 @@ this same format
 This prints the time every 10 seconds (this never ends it seems... I ended this after 5 minutes)
 
 ***python3 sun.py 'New York'***
+
 ~~TBD~~
 This gives info about the time zone, latitude and longitude. It also says when dawn started, the sunrise and noon (I'm guessing when the sun was highest over NY)
 
@@ -39,16 +40,19 @@ This gives info about the time zone, latitude and longitude. It also says when d
 This lists the different moon phases
 
 ***python3 coordinates.py 'SC Williams Library'***
+
 ~~TBD~~
 Tells you the location of SC Williams Library: its town, district, county, country and coordinates
 This one is in Canada, that's interesting
 
 ***python3 address.py '40.74480675, -74.02532862031404'***
+
 ~~TBD~~
 Finds what is located at those coordinates. This one is the library on our campus
 
 
 ***python3 cpu.py***
+
 ~~TBD~~
 Tells you info about your cpu: how many cores, cpus and how much each cpu is being used
 
