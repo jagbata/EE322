@@ -12,6 +12,7 @@ I was able to do everything using ubuntu. This method creates an Ubuntu venv for
 **python3 julian.py**
 
 ~~TBD~~
+
 This prints the calendar date and then the Julian date. It also has a modified Julian Date that cut off the first two digits
 
 ***python3 date_example.py***
@@ -33,10 +34,12 @@ This prints the time every 10 seconds (this never ends it seems... I ended this 
 ***python3 sun.py 'New York'***
 
 ~~TBD~~
+
 This gives info about the time zone, latitude and longitude. It also says when dawn started, the sunrise and noon (I'm guessing when the sun was highest over NY)
 
 ***python3 moon.py***
 ~~TBD~~
+
 This lists the different moon phases
 
 ***python3 coordinates.py 'SC Williams Library'***
@@ -48,12 +51,14 @@ This one is in Canada, that's interesting
 ***python3 address.py '40.74480675, -74.02532862031404'***
 
 ~~TBD~~
+
 Finds what is located at those coordinates. This one is the library on our campus
 
 
 ***python3 cpu.py***
 
 ~~TBD~~
+
 Tells you info about your cpu: how many cores, cpus and how much each cpu is being used
 
 ***python3 battery.py***
