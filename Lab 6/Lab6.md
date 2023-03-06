@@ -30,6 +30,8 @@ This commands is running a server too, but at a different address. It prints *He
 I don't know what this does, nothing appears and I have to ctrl+C to clear
 I asked a friend for help and he told me to type *localhost:8080* in the search bar and it told me how often the page was refreshed, both on the page itself and in the terminal
 
+Once you close the tab, it tells you *response end call done* and *request event fired*
+
 # Lab 6B #
 
 This part deals with using Mustache
