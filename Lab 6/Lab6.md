@@ -18,15 +18,17 @@ This displays all the different commands you can enter if you want to do a speci
 
 **node hello-world.js**
 
-This command prompts the server to start running and tells me what ip number it is running at
+This command prompts the server to start running and if you go to that address, it prints *Hello World!*
 
 **node hello.js**
 
-This commands is running a server too, but at a different address
+This commands is running a server too, but at a different address. It prints *Hello World!*
+
 
 **node http.js**
 
 I don't know what this does, nothing appears and I have to ctrl+C to clear
+I asked a friend for help and he told me to type *localhost:8080* in the search bar and it told me how often the page was refreshed, both on the page itself and in the terminal
 
 # Lab 6B #
 
