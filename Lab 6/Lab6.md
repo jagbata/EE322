@@ -28,3 +28,26 @@ This commands is running a server too, but at a different address
 
 I don't know what this does, nothing appears and I have to ctrl+C to clear
 
+# Lab 6B #
+
+This part deals with using Mustache
+
+**cat say_hello.mustacehe**
+
+prints *Hello, {{to}}!*
+
+**cat say_hello.py**
+
+This seems like a logic breakdown of what is happening within the file 
+
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/98117974/223162767-6449eb20-6a5e-4dda-8e49-6abadd2015c4.png">
+
+**python3 say_hello.py**
+
+This prints this:
+
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/98117974/223165083-efa5dafe-2e69-4d68-9021-5406e1b72720.png">
+
+Which is some text and then some info about the file
+
+
