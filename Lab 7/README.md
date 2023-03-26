@@ -17,4 +17,12 @@ I did not run the *python3 thingspeak_feed.py* command b/c while doing another u
 
 In other projects I used my ubuntu terminal to get around this problem, but now I can stay in my Windows terminal and use **py** from now on :)
 
-So I ran the *py thingspeak_feed.py* command and was asked to enter my API key which I did
+So I ran the *__py__ thingspeak_feed.py* command and was asked to enter my API key which I did
+
+The terminal displays some info about your computer, the date and time and the repeats this every 60s.
+
+It took me a little time to figure out how do the next part of the lab but I was able to successfully find where to enable the required APIs. 
+
+I had to create a new [Service Account](https://console.cloud.google.com/iam-admin/serviceaccounts?project=cpudata-381816) in order to download the json file
+
+I ran into some errors running the file, I am not sure if I didn't properly input info or something
