@@ -26,3 +26,16 @@ It took me a little time to figure out how do the next part of the lab but I was
 I had to create a new [Service Account](https://console.cloud.google.com/iam-admin/serviceaccounts?project=cpudata-381816) in order to download the json file
 
 I ran into some errors running the file, I am not sure if I didn't properly input info or something
+
+### 4/1/23
+I have revisited this lab after discussing with Professor Lu.
+
+I created a venv so that things can run more smoothly. When I had first read the instruction saying to delete rows 2-1000, I thought it just meant to make sure they were empty.
+
+I properly deleted them and then moved on to the next step. 
+
+The next step was making sure that the *cpu_data.json* file was in the correct location, and after I moved it to the correct location, I also needed to change the *cpu_spreadsheet.py* file to reflect my personal json file.
+
+I had to change the highlighted part in this image below.
+
+Next I was able to check my [cpudata Sheets](https://docs.google.com/spreadsheets/d/1k7JH-SSujQpUDKhCvOUAEZ3F_bLpLCOzcXtoilOxX9o/edit?usp=sharing)  to see that it worked properly
