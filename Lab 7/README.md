@@ -37,5 +37,6 @@ I properly deleted them and then moved on to the next step.
 The next step was making sure that the *cpu_data.json* file was in the correct location, and after I moved it to the correct location, I also needed to change the *cpu_spreadsheet.py* file to reflect my personal json file.
 
 I had to change the highlighted part in this image below.
+[This](https://github.com/jagbata/EE322/blob/main/Lab%207/cpu_spreadsheet_editing.jpg)
 
 Next I was able to check my [cpudata Sheets](https://docs.google.com/spreadsheets/d/1k7JH-SSujQpUDKhCvOUAEZ3F_bLpLCOzcXtoilOxX9o/edit?usp=sharing)  to see that it worked properly
