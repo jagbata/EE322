@@ -38,4 +38,8 @@ The next step was making sure that the *cpu_data.json* file was in the correct l
 
 I had to change the highlighted part in [this](https://github.com/jagbata/EE322/blob/main/Lab%207/cpu_spreadsheet_editing.jpg) image
 
+I  was able to see that my terminal was updating [here](https://github.com/jagbata/EE322/blob/main/Lab%207/cpu_spreadsheet_working.jpg)
+
 Next I was able to check my [cpudata Sheets](https://docs.google.com/spreadsheets/d/1k7JH-SSujQpUDKhCvOUAEZ3F_bLpLCOzcXtoilOxX9o/edit?usp=sharing)  to see that it worked properly
+
+I believe that is all for this lab 
