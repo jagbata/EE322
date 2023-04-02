@@ -38,6 +38,7 @@ Once again, the graph might not mean anything but here it is:
 
 [Figure 1](https://github.com/jagbata/EE322/blob/main/Lab%208/Lab8_Figure_1_pt2.jpeg)
 
+I wonder this lab would look like with all the proper temperature sensor data
 
 
 
