@@ -20,12 +20,26 @@ Of course there is very little relationship to be had with *CPU Usage* and *Avai
 I was able to see the graphs that were made, and while *these* may have no meaning, this part was useful in terms of seeing how you can extract data from a **.csv** file to make graphs.
 
 Even though they don't really make sense, I still have uploaded the graphs, just for documentation purposes
+
 [Figure 1](https://github.com/jagbata/EE322/blob/main/Lab%208/Lab8_Figure_1.jpeg)
+
 [Figure 2](https://github.com/jagbata/EE322/blob/main/Lab%208/Lab8_Figure_2.jpeg)
+
 [Figure 3](https://github.com/jagbata/EE322/blob/main/Lab%208/Lab8_Figure_3.jpeg)
+
 [Figure 4](https://github.com/jagbata/EE322/blob/main/Lab%208/Lab8_Figure_4.jpeg)
+
 [Figure 5](https://github.com/jagbata/EE322/blob/main/Lab%208/Lab8_Figure_5.jpeg)
+
 [Figure 6](https://github.com/jagbata/EE322/blob/main/Lab%208/Lab8_Figure_6.jpeg)
+
+I did a similar process for the second (*plt_cv2.py*) file :changing the right things inside the file itself. 
+Once again, the graph might not mean anything but here it is:
+
+[Figure 1](https://github.com/jagbata/EE322/blob/main/Lab%208/Lab8_Figure_1_pt2.jpeg)
+
+
+
 
 
 
